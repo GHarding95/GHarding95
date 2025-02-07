@@ -18,7 +18,6 @@ I'm a results-driven web developer with 7 years of experience in building websit
   - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
   - ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0061F2?style=flat-square&logo=gitlab&logoColor=white)
 
-- 💬 **Ask me about:** Web development, JavaScript, or anything tech-related!
 - 📬 **How to reach me:** [Email](mailto:glenharding123@gmail.com)
 
 ---
