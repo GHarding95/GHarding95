@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub Repository 🌍
 
-I'm a results-driven web developer with 7 years of experience, I specialize in front-end technologies like React, TypeScript, and Sass. 💻
+I'm a results-driven web developer with 7 years of experience, I specialise in front-end technologies like React, TypeScript, and Sass. 💻
 
 - **Tech Stack:** 
 
