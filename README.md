@@ -11,8 +11,6 @@ I'm a results-driven web developer with 7 years of experience in building websit
   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
   - ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
-- 📬 **How to reach me:** [Email](mailto:glenharding123@gmail.com)
-
 ---
 
 ### Languages & Tools
