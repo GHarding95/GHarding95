@@ -4,7 +4,8 @@
 
 I'm a results-driven web developer with 7 years of experience, I specialize in front-end technologies like React, TypeScript, and Sass. 💻
 
-- 🔧 **Tech Stack:** 
+- **Tech Stack:** 
+
   - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) 
   - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   - ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
