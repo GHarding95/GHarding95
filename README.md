@@ -22,12 +22,6 @@ I'm a results-driven web developer with 7 years of experience in building websit
 
 ---
 
-### GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GHarding95&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
-
----
-
 ### Languages & Tools
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GHarding95&langs_count=5&theme=radical)
